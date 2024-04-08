@@ -4,7 +4,7 @@ import 'package:test_random_with_column_flutter_apl/provider/comp_finish_more.da
 import 'package:test_random_with_column_flutter_apl/provider/random_chislo_provider.dart';
 import 'package:test_random_with_column_flutter_apl/provider/user_provider.dart';
 import 'package:test_random_with_column_flutter_apl/splash_screen.dart';
-
+//тестовая запись
 void main() {
   runApp( const RandomNumbersApp());
 }
